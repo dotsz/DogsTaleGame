@@ -2,6 +2,7 @@ Work-in-progress
 
 Plan:
 Create a game using Java, LibGDX
+
 Possibly clone Hollow Knight
 
 In order to finish this:
@@ -14,7 +15,12 @@ Movement / Controls / Dash, x2 Jump
 Enemy Entity / Combat
 Puzzles / Challenge
 Item / Inventory
+
 Save / Checkpoint
+
 UI / UX
+
 Story
+
 Audio / Visuals
+
