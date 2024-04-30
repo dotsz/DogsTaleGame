@@ -1,33 +1,24 @@
-Work-in-progress
+**Work-in-progress**
 
-Plan:
 Create a game using Java, LibGDX
 
-Possibly clone Hollow Knight
+Possibly a Hollow Knight clone
 
-In order to finish this:
+**Things to learn to make this complete:**
 
-LibGDX / Gradle
+<ul>
+<li>LibGDX / Gradle</li>
+<li>Learn how to create pixel art sprite</li>
+<li>TileMap / Background / Foreground / Collision Layer / Interactive Objects</li>
+<li>Character Abilities / Progression</li>
+<li>Movement / Controls / Dash, x2 Jump</li>
+<li>Enemy Entity / Combat</li>
+<li>Puzzles / Challenge</li>
+<li>Item / Inventory</li>
+<li>Save / Checkpoint</li>
+<li>UI / UX</li>
+<li>Story</li>
+<li>Audio / Visuals</li>
+</ul>
 
-Learn how to create pixel art sprite
-
-TileMap / Background / Foreground / Collision Layer / Interactive Objects
-
-Character Abilities / Progression
-
-Movement / Controls / Dash, x2 Jump
-
-Enemy Entity / Combat
-
-Puzzles / Challenge
-
-Item / Inventory
-
-Save / Checkpoint
-
-UI / UX
-
-Story
-
-Audio / Visuals
 
